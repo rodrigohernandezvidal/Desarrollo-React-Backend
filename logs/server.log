@@ -1,0 +1,57 @@
+[2025-03-05 12:44:28] [ERROR]: Error en la firma de test.pdf: El archivo test.pdf no existe.
+[2025-03-05 12:46:04] [ERROR]: Error en la firma de test.pdf: El archivo test.pdf no existe.
+[2025-03-05 12:49:11] [ERROR]: Error en la firma de test.pdf: El archivo test.pdf no existe.
+[2025-03-05 12:51:02] [INFO]: Iniciando verificación de firma: test.pdf
+[2025-03-05 12:51:02] [ERROR]: Error en la verificación de firma de test.pdf: Encrypted message length is invalid.
+[2025-03-05 14:06:45] [INFO]: Iniciando verificación de firma: test.pdf
+[2025-03-05 14:06:45] [ERROR]: Error en la verificación de firma de test.pdf: Encrypted message length is invalid.
+[2025-03-05 14:09:01] [INFO]: Iniciando verificación de firma: test.pdf
+[2025-03-05 14:09:01] [ERROR]: Error en la verificación de firma de test.pdf: ENOENT: no such file or directory, open './uploads/test.pdf.sig'
+[2025-03-05 14:10:00] [INFO]: Iniciando verificación de firma: test.pdf
+[2025-03-05 14:10:00] [ERROR]: Error en la verificación de firma de test.pdf: Encrypted message length is invalid.
+[2025-03-05 14:19:25] [INFO]: Iniciando verificación de firma: test.pdf
+[2025-03-05 14:19:25] [ERROR]: Error en la verificación de firma de test.pdf: Encrypted message length is invalid.
+[2025-03-05 14:19:35] [INFO]: Iniciando verificación de firma: test.pdf
+[2025-03-05 14:19:35] [ERROR]: Error en la verificación de firma de test.pdf: Encrypted message length is invalid.
+[2025-03-05 14:21:40] [INFO]: Iniciando verificación de firma: test.pdf
+[2025-03-05 14:21:40] [ERROR]: Error en la verificación de firma de test.pdf: Encrypted message length is invalid.
+[2025-03-05 14:22:12] [INFO]: Iniciando verificación de firma: test.pdf
+[2025-03-05 14:22:12] [ERROR]: Error en la verificación de firma de test.pdf: Encrypted message length is invalid.
+[2025-03-05 14:24:39] [INFO]: Iniciando verificación de firma: test.pdf
+[2025-03-05 14:24:39] [ERROR]: Error en la verificación de firma de test.pdf: La firma para test.pdf no existe.
+[2025-03-05 14:25:18] [INFO]: Iniciando verificación de firma: test.pdf
+[2025-03-05 14:25:18] [ERROR]: Error en la verificación de firma de test.pdf: Encrypted message length is invalid.
+[2025-03-05 14:31:37] [INFO]: Iniciando verificación de firma: test.pdf
+[2025-03-05 14:31:37] [ERROR]: Error en la verificación de firma de test.pdf: Encrypted message length is invalid.
+[2025-03-06 10:47:22] [INFO]: Documento firmado: ./signed/signed_1741027228638-FirmaElectronica.pdf
+[2025-03-06 10:47:22] [ERROR]: Error en la firma de 1741027228638-FirmaElectronica.pdf: Cannot read properties of undefined (reading 'download')
+[2025-03-06 10:58:42] [INFO]: Documento firmado: ./signed/signed_1741027228638-FirmaElectronica.pdf
+[2025-03-06 10:58:42] [ERROR]: Error en la firma de 1741027228638-FirmaElectronica.pdf: Cannot read properties of undefined (reading 'download')
+[2025-03-06 11:11:39] [INFO]: Documento firmado: ./signed/signed_1741027228638-FirmaElectronica.pdf
+[2025-03-06 11:11:39] [ERROR]: Error al descargar el archivo: Can't set headers after they are sent.
+[2025-03-06 11:19:35] [INFO]: Documento firmado: ./signed/signed_1741027228638-FirmaElectronica.pdf
+[2025-03-06 11:19:35] [ERROR]: Error al descargar el archivo: Request aborted
+[2025-03-06 12:43:25] [INFO]: Documento firmado: ./signed/signed_1741027228638-FirmaElectronica.pdf
+[2025-03-06 12:43:25] [ERROR]: Error al descargar el archivo: Can't set headers after they are sent.
+[2025-03-06 12:46:07] [INFO]: Documento firmado: ./signed/signed_1741027228638-FirmaElectronica.pdf
+[2025-03-06 12:46:07] [ERROR]: Error al descargar el archivo: Can't set headers after they are sent.
+[2025-03-06 12:52:22] [INFO]: Documento firmado: ./signed/signed_1741276311384-test.pdf
+[2025-03-06 12:52:22] [ERROR]: Error al descargar el archivo: Can't set headers after they are sent.
+[2025-03-06 14:49:47] [INFO]: Documento firmado: ./signed/signed_1741283329614-test.pdf
+[2025-03-06 14:49:47] [ERROR]: Error al descargar el archivo: Can't set headers after they are sent.
+[2025-03-06 14:58:11] [INFO]: Documento firmado: ./signed/signed_1741283852206-test.pdf
+[2025-03-06 15:32:09] [INFO]: Firma generada y guardada: ./signed/1741285908948-test.pdf.sig
+[2025-03-06 15:32:09] [ERROR]: Error en la firma de 1741285908948-test.pdf: Unknown image format.
+[2025-03-06 15:40:33] [INFO]: Firma generada y guardada: ./signed/1741286407790-test.pdf.sig
+[2025-03-06 15:49:59] [INFO]: Firma generada y guardada: ./signed/1741286985726-test.pdf.sig
+[2025-03-06 15:50:01] [ERROR]: Error en la firma de 1741286985726-test.pdf: Error: Command failed: convert -density 96 -quality 100 -background "#FFFFFF" -flatten ./uploads/1741286985726-test.pdf[0] 1.jpg
+/bin/sh: convert: command not found
+
+[2025-03-07 07:56:46] [INFO]: Firma generada y guardada: ./signed/1741286985726-test.pdf.sig
+[2025-03-07 07:56:47] [ERROR]: Error en la firma de 1741286985726-test.pdf: Error: Command failed: convert -density 96 -quality 100 -background "#FFFFFF" -flatten ./uploads/1741286985726-test.pdf[0] 1.jpg
+/bin/sh: convert: command not found
+
+[2025-03-07 08:32:42] [INFO]: Firma generada y guardada: ./signed/1741347125735-test.pdf.sig
+[2025-03-07 09:20:23] [INFO]: Firma generada y guardada: ./signed/1741347125735-test.pdf.sig
+[2025-03-07 12:11:26] [INFO]: Firma generada y guardada: ./signed/1741347125735-test.pdf.sig
+[2025-03-12 12:30:29] [INFO]: Firma generada y guardada: ./signed/1741791879818-Manda_RodrigoHernandezVidal_12325.pdf.sig
